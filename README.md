@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 <!-- github -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zapstiko" alt="raihan" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zapstiko&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zapstiko" alt="raihan" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zapstiko&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
