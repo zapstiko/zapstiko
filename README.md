@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <!-- Langues used -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zapstiko" alt="suprabhasupi" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=suprabhasupi&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zapstiko" alt="suprabhasupi" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=suprabhasupi&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 
 <!-- github -->
 
