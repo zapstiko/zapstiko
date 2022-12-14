@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **iamraihan00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KSTSCIE-sAsd4g0rb_7mFbB1IACo7rHx/view?usp=sharing](https://drive.google.com/file/d/1n_nteZ0LhhAfjc81QrnIBaG_mx3S9h_Z/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1KSTSCIE-sAsd4g0rb_7mFbB1IACo7rHx/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zapstiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zapstiko" height="30" width="40" /></a>
